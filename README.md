@@ -14,4 +14,4 @@
 - **Project Merchantry**. A game about crafting items and bartering.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
 
-### 
+For any inquiries, you can [contact me](https://highverve.github.io/contact.html).
