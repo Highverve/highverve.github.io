@@ -1,18 +1,19 @@
 ---
-title: plgl
+title: Procedural Language Generation Library
 layout: default
 filename: plgl.md
 ---
 
 
+![PLGL logo](https://raw.githubusercontent.com/Highverve/PLGL/master/icon.png)
 
-![PLGL logo](https://raw.githubusercontent.com/Highverve/PLGL/master/logo.png)
+# Procedural Language Generation
 
-# Procedural Language Generation Librar
+*Procedural Language Generation Library* (PLGL) is a code library designed for game developers who want consistent, fictional languages for their game's cultures and peoples, without the time needed to create one. The language author constructs the alphabet, letter groups, syllable structures, affixes, character filtering for sentence deconstruction, and other constraints; then, the generator processes a regular sentence, and returns a new, stylized sentence from your fictional language.
 
-Procedural Language Generation Library (PLGL) is a code library designed for game developers who want consistent, fictional languages for their game's cultures and peoples, without the time needed to create one. The language author constructs the alphabet, letter groups, syllable structures, affixes, character filtering for sentence deconstruction, and other constraints; then, the generator processes a regular sentence, and returns a new, stylized sentence from your fictional language.
+---
 
-### Examples
+## Examples
 
 *Qen* is more of a scandinavian/english language, whereas *Jabanese* attempts to mimic Japanese. Qen has complex syllables, and a moderate amount of exclusion rules. Jabanese has simpler syllable structures, yet relies on letter exclusion a bit more.
 
@@ -48,5 +49,7 @@ chusa kugucho giyu gita、 shoku kazubi dayuke kozopeyo
 sote pumaya shu sushorya chi muki pobihe na。
 そて ぷまや しゅ すしょりゃ ち むき ぽびへ な。
 ```
+
+---
 
 For more information on this code library, **[click here](https://github.com/Highverve/PLGL)**.
