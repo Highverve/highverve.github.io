@@ -1,10 +1,11 @@
 # Software Developer
 
-**SKILLS: C#, Python, SQL, MonoGame Framework, AGILE, Communication, Problemsolving, Adaptability**
+**SKILLS: C#, Python, SQL, MonoGame Framework, Agile, Communication, Problem-solving, Adaptability**
 
 ### Experience
 
-- Coder at Emberium Studios
+- **Coder**, Emberium Studios *(2014 to 2019)*
+- **Analyst**, Hearthside Grove *(2020)*
 
 ### Projects
 
@@ -12,7 +13,5 @@
 - **Pilgrimage of Embers**. A 2D action RPG.
 - **Project Merchantry**. A game about crafting items and bartering.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
-
-### Skills
 
 ### 
