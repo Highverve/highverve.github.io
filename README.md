@@ -1,10 +1,6 @@
 # Software Developer
 
-**Technical Skills: C#, MonoGame Framework, AGILE Methodology**
-
-**Interpersonal Skills: Communication, problemsolving, adaptability**
-
-**Learning: SQL and Python, with a focus on data analytics**
+**SKILLS: C#, Python, SQL, MonoGame Framework, AGILE, Communication, Problemsolving, Adaptability**
 
 ### Experience
 
