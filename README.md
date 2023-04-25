@@ -16,6 +16,6 @@
 
 ### Gallery
 
-
+---
 
 For any inquiries, you can [contact me](contact.html).
