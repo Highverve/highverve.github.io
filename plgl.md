@@ -4,9 +4,11 @@ layout: template
 filename: plgl.md
 ---
 
+
+
 ![PLGL logo](https://raw.githubusercontent.com/Highverve/PLGL/master/logo.png)
 
-# Procedural Language Generation Library
+# Procedural Language Generation Librar
 
 Procedural Language Generation Library (PLGL) is a code library designed for game developers who want consistent, fictional languages for their game's cultures and peoples, without the time needed to create one. The language author constructs the alphabet, letter groups, syllable structures, affixes, character filtering for sentence deconstruction, and other constraints; then, the generator processes a regular sentence, and returns a new, stylized sentence from your fictional language.
 
