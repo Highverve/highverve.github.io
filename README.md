@@ -9,7 +9,7 @@
 
 ### Projects
 
-- **[Procedural Language Generation](https://highverve.github.io/plgl.md)**. This code library takes a sentence from your preferred written language and transforms it according to the constraints of a new, fictional language.
+- **[Procedural Language Generation](plgl.md)**. This code library takes a sentence from your preferred written language and transforms it according to the constraints of a new, fictional language.
 - **Pilgrimage of Embers**. A 2D action RPG.
 - **Project Merchantry**. A game about crafting items and bartering.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
@@ -18,4 +18,4 @@
 
 
 
-For any inquiries, you can [contact me](https://highverve.github.io/contact.html).
+For any inquiries, you can [contact me](contact.html).
