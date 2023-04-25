@@ -1,7 +1,8 @@
 ---
 title: plgl
+layout: template
 filename: plgl.md
---- 
+---
 
 ![PLGL logo](https://raw.githubusercontent.com/Highverve/PLGL/master/logo.png)
 
