@@ -1,5 +1,11 @@
 # Software Developer
 
+**Technical Skills: C#, MonoGame Framework, AGILE Methodology**
+
+**Interpersonal Skills: Communication, problemsolving, adaptability**
+
+**Learning: SQL and Python, with a focus on data analytics**
+
 ### Experience
 
 - Coder at Emberium Studios
