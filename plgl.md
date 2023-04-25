@@ -1,6 +1,6 @@
 ---
 title: plgl
-layout: template
+layout: default
 filename: plgl.md
 ---
 
