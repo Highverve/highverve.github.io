@@ -7,7 +7,7 @@ filename: contact.md
 # Get in Touch
 
 <style> 
-input[type=text]
+input
 {
   width: 100%;
   padding: 12px 20px;
@@ -31,7 +31,7 @@ textarea
   resize: vertical;
 }
   
-input[type=button], input[type=submit], input[type=reset]
+button
 {
   background-color: skyblue;
   border: none;
