@@ -39,13 +39,13 @@ input[type=button], input[type=submit], input[type=reset]
   color: white;
   padding: 16px 32px;
   
+  font-weight: bold;
+  font-size: 14px;
   text-decoration: none;
   text-transform: uppercase;
   
   margin: 4px 2px;
   cursor: pointer;
-  font-weight: bold;
-  font-size: 14px;
 }
   
 input:focus
@@ -58,7 +58,7 @@ textarea:focus
 }
 </style>
 
-<div id="contact">
+<div id="contact" align="center">
 <form action="https://formspree.io/f/xayzavyk" method="POST">
 <input type="email" name="Email" width="100%" placeholder="Your email" required><br>
 <input type="hidden" name="_subject" width="100%" value="Webpage Contact" />
