@@ -18,9 +18,22 @@ input
   border-radius: 4px;
 }
   
-input[type=text]:focus
+input:focus
 {
   background-color: #F2F2F2;
+}
+  
+textarea
+{
+  width: 100%;
+  height: 200px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  
+  border: 2px solid skyblue;
+  border-radius: 4px;
+  
+  resize: vertical;
 }
 </style>
 
