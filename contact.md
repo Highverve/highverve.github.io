@@ -26,6 +26,7 @@ textarea
   width: 100%;
   height: 200px;
   padding: 12px 20px;
+  margin: 8px 0;
   box-sizing: border-box;
   
   font-family: "Helvetica Neue", sans-serif;
@@ -53,7 +54,7 @@ button
   text-transform: uppercase;
   font-family: "Helvetica Neue"
   
-  margin: 4px 2px;
+  margin: 24px 2px;
   cursor: pointer;
 }
   
@@ -75,16 +76,16 @@ select
 
 # Contact Me
 
-You can email me through this form. I'll reply in a few business days, if necessary.
+You can email me through this form. I'll reply in one to two business days, if needed.
 
 <div id="contact" align="center">
 <form action="https://formspree.io/f/xayzavyk" method="POST">
 <input type="name" name="Name" width="100%" placeholder="Name" required><br>
 <input type="email" name="Email" width="100%" placeholder="Email" required><br>
 <select id="topic" name="Topic" required>
-  <option value="">Career Opportunity</option>
-  <option value="ca">Feedback / Inquiry</option>
-  <option value="usa">General</option>
+  <option value="career">Career Opportunity</option>
+  <option value="feedback">Feedback / Inquiry</option>
+  <option value="general">General</option>
 </select>
 <input type="hidden" name="_subject" width="100%" value="Webpage Contact" />
 <textarea name="Message" width="100%" placeholder="Message" required></textarea><br>
