@@ -48,7 +48,7 @@ button
   padding: 16px 32px;
   
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Helvetica Neue"
@@ -61,10 +61,15 @@ select
 {
   width: 100%;
   padding: 16px 20px;
+  margin: 8px 0;
   border: none;
   border-radius: 4px;
-  background-color: #f1f1f1;
+  background-color: skyblue;
   text-transform: uppercase;
+  color: white;
+  font-family: "Helvetica Neue"
+  font-size: 16px;
+  font-weight: bold;
 }
 </style>
 
