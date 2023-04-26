@@ -7,7 +7,7 @@ filename: contact.md
 # Get in Touch
 
 <style> 
-input
+input[type=text]
 {
   width: 100%;
   padding: 12px 20px;
@@ -48,7 +48,7 @@ input[type=button], input[type=submit], input[type=reset]
   cursor: pointer;
 }
   
-input:focus
+input[type=text]:focus
 {
   background-color: #F2F2F2;
 }
