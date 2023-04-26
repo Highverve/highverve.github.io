@@ -18,11 +18,6 @@ input
   border-radius: 4px;
 }
   
-input:focus
-{
-  background-color: #F2F2F2;
-}
-  
 textarea
 {
   width: 100%;
@@ -34,6 +29,32 @@ textarea
   border-radius: 4px;
   
   resize: vertical;
+}
+  
+input[type=button], input[type=submit], input[type=reset]
+{
+  background-color: skyblue;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 16px 32px;
+  
+  text-decoration: none;
+  text-transform: uppercase;
+  
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
+}
+  
+input:focus
+{
+  background-color: #F2F2F2;
+}
+textarea:focus
+{
+  background-color: #F2F2F2;
 }
 </style>
 
