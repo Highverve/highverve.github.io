@@ -4,9 +4,7 @@ layout: default
 filename: contact.md
 ---
 
-# Get in Touch
-
-<style> 
+<style>
 input
 {
   width: 100%;
@@ -14,6 +12,7 @@ input
   margin: 8px 0;
   box-sizing: border-box;
   
+  font-family: "Helvetica Neue"
   border: 2px solid skyblue;
   border-radius: 4px;
 }
@@ -25,6 +24,7 @@ textarea
   padding: 12px 20px;
   box-sizing: border-box;
   
+  font-family: "Helvetica Neue"
   border: 2px solid skyblue;
   border-radius: 4px;
   
@@ -43,20 +43,27 @@ button
   font-size: 14px;
   text-decoration: none;
   text-transform: uppercase;
+  font-family: "Helvetica Neue"
   
   margin: 4px 2px;
   cursor: pointer;
 }
   
-input[type=text]:focus
+input:focus
 {
   background-color: #F2F2F2;
+  border: 2px dashed skyblue;
 }
 textarea:focus
 {
   background-color: #F2F2F2;
+  border: 2px dashed skyblue;
 }
 </style>
+
+# Contact Me
+
+You can email me through this form. I'll reply in a few business days, if necessary.
 
 <div id="contact" align="center">
 <form action="https://formspree.io/f/xayzavyk" method="POST">
