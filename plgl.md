@@ -9,6 +9,8 @@ filename: plgl.md
 
 This is a code library designed for game developers who want consistent, fictional languages for their game's cultures and peoples, *without* the time needed to create one. The language author constructs the alphabet, letter groups, syllable structures, affixes, character filtering for sentence deconstruction, and other constraints; then, the generator processes a regular sentence, and returns a new, stylized sentence from your fictional language.
 
+<p align="center">For more information on this code library, <strong><a href="https://github.com/Highverve/PLGL">visit the GitHub page</a></strong>.</p>
+
 ![PLGL example](https://user-images.githubusercontent.com/119130949/226001137-0695c1a7-b07d-45f9-9ce6-b60a3bf6919e.png)
 
 ---
@@ -39,7 +41,3 @@ chusa kugucho giyu gita、 shoku kazubi dayuke kozopeyo
 sote pumaya shu sushorya chi muki pobihe na。
 そて ぷまや しゅ すしょりゃ ち むき ぽびへ な。
 ```
-
----
-
-For more information on this code library, **[visit the GitHub page](https://github.com/Highverve/PLGL)**.
