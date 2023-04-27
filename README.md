@@ -4,14 +4,14 @@
 
 ### Experience
 
-- **Software Developer**, Emberium Studios *(2014 to 2019)*
+- **Software Developer**, Emberium Studios *(2014 to 2019)*. My first role in game development. This was a hands-on experience with C# / .NET, and increased my understanding of the software development cycle.
 - **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2022)*
 
 ### Projects
 
 - **[Procedural Language Generator](plgl.md)**. This code library takes a sentence from your preferred written language and transforms it according to the constraints of a new, fictional language.
 - **Revenue Management Dashboard**. A configurable dashboard created in Google Sheets which pulls data from the selected month  and option, updating the data in the calendar view and weekly sparklines accordingly. See figure 1.
-- **Pilgrimage of Embers**. A 2D action RPG.
+- **Pilgrimage of Embers**. A classic action role-playing game.
 - **Project Merchantry**. A game about crafting items and bartering. See figures 1 and 2.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
 
