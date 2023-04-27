@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/119130949/234749603-de0bb10b-cb48-4c2f-b8cf-979038b189ec.png" style="width: 49%" /> <img src="https://user-images.githubusercontent.com/119130949/234750773-176fe2f4-8926-4d66-9595-5140fc8a5900.png" style="width: 49%" />
 
-https://user-images.githubusercontent.com/119130949/234751063-afd189c6-7c44-4fe5-9500-7a045e4127eb.mp4
+<video controls><source src="https://user-images.githubusercontent.com/119130949/234751063-afd189c6-7c44-4fe5-9500-7a045e4127eb.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ---
 
