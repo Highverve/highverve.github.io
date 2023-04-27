@@ -14,6 +14,7 @@
 - **Pilgrimage of Embers**. A classic action role-playing game.
 - **Project Merchantry**. A game about crafting items and bartering. See figures 1 and 2.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
+- **[MonoGame Particle System](https://github.com/Highverve/ParticleEngine)**. An internal library for two-dimensional visual effects.
 
 ### Gallery
 
