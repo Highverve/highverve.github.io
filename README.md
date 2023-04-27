@@ -16,6 +16,8 @@
 
 ### Gallery
 
+<img src="https://user-images.githubusercontent.com/119130949/234748745-c23a29e4-698e-4925-b07b-4b3811ee893f.png" style="width: 49%" /> <img src="https://user-images.githubusercontent.com/119130949/234749603-de0bb10b-cb48-4c2f-b8cf-979038b189ec.png" style="width: 49%" />
+
 ---
 
 For any inquiries, you can [contact me](contact.html).
