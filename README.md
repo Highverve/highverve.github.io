@@ -1,11 +1,11 @@
 # Software Developer
 
-**SKILLS: C#, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving, Adaptability**
+**SKILLS: C#, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving, Adaptability, Teamplayer**
 
 ### Experience
 
 - **Software Developer**, Emberium Studios *(2014 to 2019)*. My first role in game development. This was a hands-on experience with C# / .NET, and increased my understanding of the software development cycle.
-- **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2022)*
+- **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2022)*.
 - **Other roles**. Drone operator, line cook, bookkeeper, resort front desk agent.
 
 ### Projects
@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/119130949/234748745-c23a29e4-698e-4925-b07b-4b3811ee893f.png" style="width: 100%" alt="Figure 1"/>
 <p align="center" style="font-size: 10px">Figure 1. The revenue dashboard.</p>
 <img src="https://user-images.githubusercontent.com/119130949/234749603-de0bb10b-cb48-4c2f-b8cf-979038b189ec.png" style="width: 49%" alt="Figure 2"/>   <img src="https://user-images.githubusercontent.com/119130949/234750773-176fe2f4-8926-4d66-9595-5140fc8a5900.png" style="width: 49%" alt="Figure 3"/>
-<p align="center" style="font-size: 10px">Figure 2 and 3. Project Merchantry screenshots.</p>
+<p align="center" style="font-size: 10px">Figures 2 and 3. Project Merchantry screenshots.</p>
 
 <video width="100%" autoplay muted loop><source src="https://user-images.githubusercontent.com/119130949/234751063-afd189c6-7c44-4fe5-9500-7a045e4127eb.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 <p align="center" style="font-size: 10px">Figure 4. MonoGame particle system.</p>
