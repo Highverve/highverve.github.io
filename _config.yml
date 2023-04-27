@@ -2,4 +2,4 @@ title: TREVOR J. FRANTZ
 logo: /assets/images/me.png
 show_downloads: false
 theme: jekyll-theme-minimal
-description: Software developer, Spiritual Christian, philosophical writer. For any inquiries, you can **[contact me here](contact.html)**.
+description: Software developer, Spiritual Christian, philosophical writer. For any inquiries, you can <strong><a href="contact.html">contact me here</a></strong>.
