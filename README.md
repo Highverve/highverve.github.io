@@ -22,6 +22,7 @@
 
 <video width="100%" controls><source src="https://user-images.githubusercontent.com/119130949/234751063-afd189c6-7c44-4fe5-9500-7a045e4127eb.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+
 ---
 
-For any inquiries, you can [contact me](contact.html).
+For any inquiries, you can **[contact me](contact.html)**.
