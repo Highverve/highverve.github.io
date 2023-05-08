@@ -14,6 +14,7 @@
 - **Revenue Management Dashboard**. A configurable rate dashboard which pulls data together, updating the data in the calendar view and weekly sparklines accordingly. See figure 1.
 - **[Space-capitalism!](https://d1fdloi71mui9q.cloudfront.net/fjwsB84yQhOzrClXFee8_project%20space-capitalism%20watermarked.pdf)**. A master game design document about our universe in the future. I started this project in 2020, only revisiting it in January 2023 as a creative outlet.
 - **[Pilgrimage of Embers](https://github.com/Highverve/POE)**. A classic action role-playing game.
+- **Monument**. A game and software launcher to access free and Patreon content.
 - **Project Merchantry**. A game about crafting items and bartering. See figures 2 and 3.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
 - **[MonoGame Particle System](https://github.com/Highverve/ParticleEngine)**. An internal library for two-dimensional visual effects. See figure 4.
