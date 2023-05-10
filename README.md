@@ -5,7 +5,7 @@
 ### Experience
 
 - **Software Developer**, Emberium Studios *(2014 to 2019)*. My first job in game development. This was a hands-on experience with C# / .NET, and increased my understanding of the software development cycle.
-- **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2022)*.
+- **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2019 to 2022)*.
 - **Other roles**. Drone operator, line cook, bookkeeper, resort front desk agent.
 
 ### Projects
