@@ -1,10 +1,10 @@
 # Software Developer
 
-**SKILLS: C#, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving, Adaptability, Teamplayer**
+**SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving, Adaptability, Teamplayer**
 
 ### Experience
 
-- **Software Developer**, Emberium Studios *(2014 to 2019)*. My first job in game development. This was a hands-on experience with C# / .NET, and increased my understanding of the software development cycle.
+- **Software Developer** *(2014 to current)*. My first job in game development. This was a hands-on experience with C# / .NET, and increased my understanding of the software development cycle.
 - **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2019 to 2022)*.
 - **Other roles**. Drone operator, line cook, bookkeeper, resort front desk agent.
 
