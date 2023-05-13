@@ -11,13 +11,13 @@
 ### Projects
 
 - **[Procedural Language Generator](plgl.md)**. This code library takes a sentence from your preferred written language and transforms it according to the constraints of a new, fictional language.
-- **Revenue Management Dashboard**. A configurable rate dashboard which pulls data together, updating the data in the calendar view and weekly sparklines accordingly. See figure 1.
+- **Revenue Management Dashboard**. A configurable rate dashboard which pulls data together, updating the data in the calendar view and weekly sparklines accordingly. See Figure 1.
 - **[Space-capitalism!](https://d1fdloi71mui9q.cloudfront.net/fjwsB84yQhOzrClXFee8_project%20space-capitalism%20watermarked.pdf)**. A master game design document about our universe in the future. I started this project in 2020, only revisiting it in January 2023 as a creative outlet.
 - **[Pilgrimage of Embers](https://github.com/Highverve/POE)**. A classic action role-playing game.
 - **Monument**. A game and software launcher to access free and Patreon content.
-- **[Project Merchantry](https://github.com/Highverve/Project-Merchantry)**. A game about crafting items and bartering. See figures 2 and 3.
+- **[Project Merchantry](https://github.com/Highverve/Project-Merchantry)**. A game about crafting items and bartering. See Figures 2 and 3.
 - **MonoGame UI Library**. An internal library for streamlining UI creation.
-- **[MonoGame Particle System](https://github.com/Highverve/ParticleEngine)**. An internal library for two-dimensional visual effects. See figure 4.
+- **[MonoGame Particle System](https://github.com/Highverve/ParticleEngine)**. An internal library for two-dimensional visual effects. See Figure 4.
 
 ---
 
