@@ -2,7 +2,7 @@
 
 **SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving / Root Cause Analysis, Adaptability, Teamplayer**
 
-### Experience
+### Roles
 
 - **Software Developer** at Emberium Studios, independent. *(2014 to current)*. Alongside coding, I created the graphic, user interface, and game design to further product development.
 - **Technical Assistant, Revenue Analyst** at Hearthside Grove *(2019 to 2022)*. My responsibilities included technical assistance, bookkeeping, drone operation, and acting as a front desk agent.
