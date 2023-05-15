@@ -4,13 +4,12 @@
 
 ### Experience
 
-- **Software Developer** *(2014 to current)*.
-- **Technical Assistant, Revenue Analyst**, Hearthside Grove *(2019 to 2022)*.
-- **Other roles**. Drone operator, line cook, bookkeeper, resort front desk agent.
+- **Software Developer** at Emberium Studios, independent. *(2014 to current)*. **Additional roles**: graphic and UI design, game design, marketing.
+- **Technical Assistant, Revenue Analyst** at Hearthside Grove *(2019 to 2022)*. **Additional roles**: bookkeeper, drone operator, front desk agent.
 
 ### Projects
 
-- **[Procedural Language Generator](plgl.md)**. This code library takes a sentence from your preferred written language and transforms it according to the constraints of a new, fictional language. I researched the building blocks of languages, developed a strategy for the code structure, programmed its features and functionality within a two month timeframe. *(December 2022)*
+- **[Procedural Language Generator](plgl.md)**. This code library takes a sentence from your preferred written language and transforms it according to the constraints of a new, fictional language. I researched the building blocks of languages, developed a strategy for the code structure, and programmed its features and functionality within a two month timeframe. *(December 2022)*
 - **Revenue Management Dashboard**. A configurable rate dashboard which pulls data together, updating the data in the calendar view and weekly sparklines accordingly. I was responsible for aggregating the data, and assisted in analyzing trends to optimize the company's future rates. See *Figure 1*. *(September 2022)*
 - **[Pilgrimage of Embers](https://github.com/Highverve/POE)**. A two-dimensional action role-playing game inspired by Dark Souls. This was my first project in C# / .NET, and increased my understanding of the software development cycle. See the code, devlogs and .exe on its GitHub page. *(October 2015)*
 - **[Project Merchantry](https://github.com/Highverve/Project-Merchantry)**. A game about crafting items and bartering. I developed the code, created the artwork, and wrote the devlogs and social media posts before releasing the alpha six months later. See *Figures 2 and 3*, and the code and devlogs on its GitHub page. (*September 2018*)
