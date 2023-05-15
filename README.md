@@ -4,8 +4,8 @@
 
 ### Experience
 
-- **Software Developer** at Emberium Studios, independent. *(2014 to current)*. **Additional roles**: graphic and UI design, game design, marketing.
-- **Technical Assistant, Revenue Analyst** at Hearthside Grove *(2019 to 2022)*. **Additional roles**: bookkeeper, drone operator, front desk agent.
+- **Software Developer** at Emberium Studios, independent. *(2014 to current)*. *Additional roles*: graphic and UI design, game design, marketing.
+- **Technical Assistant, Revenue Analyst** at Hearthside Grove *(2019 to 2022)*. Bookkeeper, drone operator, front desk agent.
 
 ### Projects
 
