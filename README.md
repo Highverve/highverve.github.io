@@ -4,7 +4,7 @@
 
 ### Roles
 
-- **Software Developer** at Emberium Studios, independent. *(2014 to current)*. Alongside coding, I created the graphic, user interface, and game design to further product development.
+- **Software Developer** at Emberium Studios, independent. *(2014 to 2019, current)*. Alongside coding, I created the graphic, user interface, and game design to further product development.
 - **Technical Assistant, Revenue Analyst** at Hearthside Grove *(2019 to 2022)*. My responsibilities included technical assistance, bookkeeping, drone operation, and acting as a front desk agent.
 
 ### Projects
