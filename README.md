@@ -1,3 +1,12 @@
+<head>
+  <style>
+    p {
+      text-align: justify;
+      text-justify: inter-word;
+    }
+  </style>
+</head>
+
 # Software Developer
 
 **SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving / Root Cause Analysis, Adaptability, Teamplayer**
