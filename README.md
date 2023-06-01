@@ -2,6 +2,14 @@
 
 **SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving / Root Cause Analysis, Adaptability, Teamplayer**
 
+### Summary
+
+I have a non-traditional education, as I started learning code from online resources and books in highschool. Over the course of a few years, I developed multiple games and code libraries, making my education a hands-on experience. I've used and am familiar with C#, Python, JSON, HTML, CSS, MonoGame (formerly XNA).
+
+I'm definitely an information guy. I absolutely love to study new ideas and develop new skills. I'm a creative, out of the box thinker. I'm a decent verbal communicator, but I really excel in written communication. I'm persistent, but also patient.
+
+I'm looking to join a company to further my understanding of the software development process and sharpen my skills.
+
 ### Roles
 
 - **Software Developer** at Emberium Studios, independent. *(2014 to 2019, current)*. Alongside coding, I created the graphic, user interface, and game design to further product development.
