@@ -13,11 +13,11 @@
 
 # Software Developer
 
-**SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, Communication, Problem-solving / Root Cause Analysis, Adaptability, Teamplayer**
+**SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, UI Design, Communication, Problem-solving / Root Cause Analysis, Adaptability, Teamplayer**
 
 ### Summary
 
-I have a non-traditional education, as I started learning code from online resources and books in highschool. Over the course of a few years, I developed multiple games and code libraries, making my education a hands-on experience. I've used and am familiar with C#, Python, JSON, HTML, CSS, MonoGame (formerly XNA). I am learning Python, SQL, and MAUI.
+I have a non-traditional education, as I started learning code from online resources and books in highschool. Over the course of a few years, I developed multiple games and code libraries, making my education a hands-on experience. I've used and am familiar with C#, JSON, HTML, CSS, MonoGame (formerly XNA), GitHub, Visual Studio, Excel / Sheets, LibreWriter (document editor). I am currently learning Python, SQL, and MAUI.
 
 I'm definitely an information guy. I absolutely love to study new ideas and develop new skills. I'm a creative, out of the box thinker. I'm a decent verbal communicator, but I really excel in written communication. I'm persistent, but also patient. Some of my interests include music, collecting vinyls, cooking, writing, linguistics, internal anatomy, practical science and philosophy.
 
