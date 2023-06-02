@@ -13,7 +13,7 @@
 
 # Software Developer
 
-**SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, UI Design, Communication, Problem-solving / Root Cause Analysis, Adaptability, Teamplayer**
+**SKILLS: C#, .NET, Python, SQL, MonoGame Framework, Agile, Excel / Sheets, Graphic Design, UI Design, OOP, Communication, Problem-solving / Root Cause Analysis, Attention to Detail, Adaptability, Teamplayer**
 
 ### Summary
 
